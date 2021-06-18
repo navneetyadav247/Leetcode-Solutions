@@ -1,2 +1,2 @@
-# 100DaysOfCode
-DSA - 100 days of Code
+# Leetcode-Solutions
+DSA - Leetcode Solutions
